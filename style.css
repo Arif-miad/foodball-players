@@ -1,0 +1,77 @@
+.single-player img{
+    width: 200px;
+    height: 120px;
+
+}
+.single{
+    background-color: palegreen;
+    border:5px solid lightgrey;
+    text-align: center;
+    display: grid ;
+    grid-template-columns: repeat(2, 1fr);
+    width: 600px;
+    height: 200px;
+}
+.link-button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.topper{
+    background-color: lightgrey;
+    margin: 20px 2px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 600px;
+    height: 1600px;
+}
+.players img{
+    width: 174px;
+    height: 90px;
+
+}
+.players{
+    margin: 12px 8px;
+    background-color: whitesmoke;
+    
+}
+.leo-boss img{
+    width: 280px;
+    height: 210px;
+    border: 5px  ;
+
+}
+.leo-messi{
+    width: 600px;
+    height: 300px;
+    background-color: ;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.ball{
+    width: 400px;
+    height: 200px;
+}
+.ball img{
+    width: 300px;
+    height: 100px;
+    padding-left: 200px;
+   
+}
+.icon{
+    width: 200px;
+    height: 100px;
+    display: inline;
+}
+.icon img{
+    width: 40px;
+    height: 30px;
+    padding-left: 100px;
+    
+}
+#cop-y{
+    text-align: center;
+    width: 600px;
+    height: 100px;
+}
